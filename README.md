@@ -1,5 +1,7 @@
 # Product Tag Generator
 
+## Descrição
+
 - Este projeto Java permite que você crie etiquetas de produtos com base em informações inseridas pelo usuário, garantindo a fácil geração de etiquetas com detalhes como nome do produto, preço e, em casos especiais, informações adicionais, como data de fabricação ou taxa de importação.
 
 ## Características
