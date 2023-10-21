@@ -1,4 +1,4 @@
-# Product Tag Generator
+# Gerador de Tags de Produto
 
 ## Descrição
 
